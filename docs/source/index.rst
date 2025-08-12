@@ -26,3 +26,4 @@ Contents
    make-jwst-stack
    jades-create-program-bit-hash
    jades-make-noise-image
+   make-detection-image
