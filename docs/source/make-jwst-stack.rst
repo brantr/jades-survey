@@ -1,4 +1,3 @@
-```rst
 .. _jwst_image_stack:
 
 =========================================
@@ -372,7 +371,3 @@ dependencies used.
   *PeerJ*, 2:e453.
 * Bradley et al., *Photutils: Photometry tools for astronomy*, 2022,
   *Astropy* package.
-
-```
-
-*End of document*

@@ -1,4 +1,3 @@
-```rst
 .. _bithash_tool:
 
 Bithash Image Generator
@@ -525,4 +524,3 @@ as Astropy).  Feel free to modify it for your own projects.
     # ----------------------------------------------------------------------
     if __name__ == "__main__":
         main()
-```

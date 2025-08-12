@@ -1,4 +1,3 @@
-```rst
 .. _fits_mosaic_script:
 
 =========================================================
@@ -383,4 +382,3 @@ and sections of this listing.
    :language: python
    :linenos:
    :encoding: utf-8
-```
