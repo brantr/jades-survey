@@ -24,4 +24,5 @@ Contents
    api
    embed-subimage
    make-jwst-stack
-   jades-create-program-bit-hash.rst
+   jades-create-program-bit-hash
+   jades-make-noise-image
