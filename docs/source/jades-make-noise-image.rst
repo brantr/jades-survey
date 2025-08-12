@@ -1,7 +1,7 @@
 .. _noise_image_generator:
 
 ========================================
-Noise Image Generator – Detailed Overview
+``jades-make-noise-image.py``: Noise Image Generator – Detailed Overview
 ========================================
 
 This document provides a thorough line‑by‑line explanation of the

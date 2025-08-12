@@ -1,7 +1,7 @@
 .. _snr_combination_script:
 
 ==========================================
-``snr_combination.py`` – Multi‑band SNR image generator
+``make_detection_image.py`` – Multi‑band SNR image generator
 ==========================================
 
 **Version:** 1.0 (as of 2025‑08‑12)  

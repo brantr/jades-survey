@@ -1,7 +1,9 @@
 .. _bithash_tool:
 
-Bithash Image Generator
-=======================
+
+=========================================
+``jades-create-program-bit-hash.py``: Bithash Image Generator
+=========================================
 
 A small command‑line utility that builds a *bithash* FITS image from a list of
 individual exposure files.  

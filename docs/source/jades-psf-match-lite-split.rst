@@ -1,4 +1,6 @@
-
+======================================
+``jades-psf-match-lite-split.py``: Common PSF Image Generator
+======================================
 **In plain English – what this script actually does**
 
 1. **What it’s for**  

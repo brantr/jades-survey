@@ -1,6 +1,7 @@
 .. _bright-neighbor-flagger:
 
-Bright‑Neighbor Flagging Utility
+================================
+``jades-mark-bright-neighbors-hdu.py``: Bright‑Neighbor Flagging Utility
 ================================
 
 This document explains the purpose, functionality and inner workings of the

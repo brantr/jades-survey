@@ -1,7 +1,7 @@
 .. _fits_mosaic_script:
 
 =========================================================
-Mosaic a Sub‑Image into a Large FITS Image (Python Script)
+``embed_subimage.py`` Mosaic a Sub‑Image into a Large FITS Image (Python Script)
 =========================================================
 
 This document explains the purpose, design and operation of the

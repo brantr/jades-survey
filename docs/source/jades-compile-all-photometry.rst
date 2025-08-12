@@ -1,7 +1,7 @@
 .. _catalog_assembler:
 
 ========================================================
-catalog_assembler – Combine multiple FITS catalog files
+``jades-compile-all-photometry.py`` – Combine multiple FITS catalog files
 ========================================================
 
 **Version:** |release|  

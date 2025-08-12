@@ -1,11 +1,11 @@
 .. _jwst_image_stack:
 
 =========================================
-JWST Image Stacking and Weight Normalisation
+``make_jwst_stack.py``: JWST Image Stacking and Weight Normalisation
 =========================================
 
 This document provides a detailed walk‑through of the reference implementation
-``stack_jwst.py`` (the script shown below).  The script is designed to combine
+``make_stack_jwst.py`` (the script shown below).  The script is designed to combine
 multiple *JWST* (James Webb Space Telescope) exposures – typically the *SCI*
 (science), *ERR* (error), *WHT* (weight) and optional *NIM* (mask) extensions –
 into a single, well‑behaved FITS file.  It also offers a number of command line

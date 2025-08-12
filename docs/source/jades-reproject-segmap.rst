@@ -1,7 +1,7 @@
 .. _reproject_segmap_script:
 
 =========================================
-Reproject Segmentation Map – Python Script
+``jades-reproject-segmap.py``: Reproject Segmentation Map
 =========================================
 
 .. image:: https://img.shields.io/badge/license-MIT-blue.svg

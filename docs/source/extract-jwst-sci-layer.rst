@@ -1,5 +1,5 @@
 ========================================
-extract_layers – FITS science‑extension copier
+``extract-jwst-sci-layers.py``: – FITS science‑extension extractor
 ========================================
 
 .. image:: https://img.shields.io/badge/python-3.8%2B-blue.svg

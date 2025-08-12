@@ -1,7 +1,7 @@
 .. _ePSF_builder:
 
 =========================================================
-ePSF Builder – Detailed Code Walk‑through and Documentation
+`jades-build-epsf.py``: – ePSF Builder Routines
 =========================================================
 
 .. only:: html

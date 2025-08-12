@@ -1,5 +1,5 @@
 =========================================================
-epsf_apodizer – Apodize an Empirical PSF and Compute EE Curve
+``jades-apodize-psf.py``: – Apodize an Empirical PSF and Compute EE Curve
 =========================================================
 
 **Version:** |release|  

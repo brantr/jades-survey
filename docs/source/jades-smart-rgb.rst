@@ -1,7 +1,7 @@
 .. _rgb_fits_builder:
 
 =============================================================
-RGB image builder from multi‑channel FITS files
+``jades-smart-rgb.py``: RGB image builder from multi‑channel FITS files
 =============================================================
 
 This document explains the Python script that creates a colour **RGB**
