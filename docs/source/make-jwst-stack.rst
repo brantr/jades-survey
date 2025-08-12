@@ -1,13 +1,3 @@
-Thinking...
-We need to explain the Python code in detail, focusing on its purpose and function, and return results as an RST formatted file appropriate for a ReadTheDocs website. So we produce an .rst content with sections: Overview, Dependencies, Command-line interface, Core functions (create_parser, preprocess_nim, get_instrument, main), Algorithmic flow, Details of each processing step (NIM preprocessing, weighting, etc.), Usage examples, Configuration, Potential extensions, etc.
-
-We should also include code snippets (literal blocks) and cross-references.
-
-We need to output the RST file content as plain text.
-
-Let's craft it.
-...done thinking.
-
 ```rst
 .. _jwst_image_stack:
 

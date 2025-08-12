@@ -1,11 +1,3 @@
-Thinking...
-We need to explain code in detail, focusing purpose and function, and return results as an RST formatted file appropriate for ReadTheDocs. So produce .rst content with sections, code blocks, description of each function, CLI usage, flow, etc.
-
-Will include overview, dependencies, command-line arguments, find_slices, empty_image, combine, main script logic, notes about FITS handling, astropy, numpy, etc. Provide usage example. Provide documentation style.
-
-Will produce a single RST file content. Let's craft.
-...done thinking.
-
 ```rst
 .. _fits_mosaic_script:
 

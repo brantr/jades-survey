@@ -1,15 +1,3 @@
-Thinking...
-We need to explain the code in detail, focusing on purpose and function, and return results as an RST formatted file appropriate for ReadTheDocs. So produce .rst content with sections, code listings, explanation of each part, usage, etc. Ensure formatting correct. Provide as code block? Probably just output the rst file content.
-
-We'll explain imports, bit definitions comment, parser, main, loops, bitwise operations, FITS handling, etc.
-
-Also include a "Purpose" section, "How it works", "Command line usage", "Algorithm", "Data structures", "Example", "Limitations", "References". Provide reStructuredText markup.
-
-Will embed the code in .. code-block:: python. Provide bullet lists, tables.
-
-Let's craft final answer.
-...done thinking.
-
 ```rst
 .. _bithash_tool:
 
