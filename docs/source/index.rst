@@ -23,3 +23,5 @@ Contents
    usage
    api
    embed-subimage
+   make-jwst-stack
+   jades-create-program-bit-hash.rst
