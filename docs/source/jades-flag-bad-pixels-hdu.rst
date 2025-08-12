@@ -1,7 +1,7 @@
 .. _flagging_tool:
 
 =============================================
-``jades-flag-bad-pixels-hdu.py``: Photometric Catalog Flagging Utility (Python)
+``jades-flag-bad-pixels-hdu.py``: Photometric Catalog Utility for Flagging Bad Pixel Data
 =============================================
 
 .. image:: https://img.shields.io/badge/python-3.8%2B-blue.svg
