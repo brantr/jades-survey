@@ -14,6 +14,7 @@ Contents
 --------
 
 .. toctree::
+   :maxdepth: 1
 
    embed-subimage
    make-jwst-stack
