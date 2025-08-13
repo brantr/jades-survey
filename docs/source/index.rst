@@ -29,3 +29,5 @@ Contents
    jades-flag-bad-pixels-hdu
    jades-mark-bright-neighbors-hdu
    jades-compile-all-photometry
+   jades-forced-circular-aperture-photometry
+   jades-forced-kron-photometry
